@@ -9,4 +9,4 @@ Arduino projects by [KranXD](https://youtube.com/@KranXD_) and [Nito](https://yo
 > [Nito](https://youtube.com/@nito8066) 
 
 # Projects
-- [WIP] [Game in Arduino](https://youtube.com/@KranXD_) by Kran
+- [WIP] [Game in Arduino](https://youtube.com/@KranXD_) by Kran [![N|SOLID]https://drive.google.com/file/d/1MwemCkrOeoZfiFE_6SZaBUf3uYHlO9ZR/view?usp=drive_link](https://drive.google.com/file/d/1MwemCkrOeoZfiFE_6SZaBUf3uYHlO9ZR/view?usp=drive_link)
