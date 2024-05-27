@@ -1,4 +1,6 @@
-<p>Test</p>
+<script>
+</script>
+
 <style>
   p {
     color: goldenrod;
@@ -6,3 +8,5 @@
     font-size: 2em;
   }
 </style>
+
+<p>Hello World!</p>
